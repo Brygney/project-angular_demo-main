@@ -1,0 +1,15 @@
+
+.box{
+    height: 200px;
+    width: 200px;
+    overflow: auto;
+    background: rgb(17, 17, 17);
+}
+.centrado {
+    text-align: center;
+    vertical-align: middle;
+}
+.title-description{
+    color: rgb(12, 12, 12);
+}
+
